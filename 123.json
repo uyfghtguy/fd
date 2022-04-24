@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "https://vvvvylit.herokuapp.com/$1"}
+  ]
+}
